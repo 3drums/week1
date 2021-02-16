@@ -1,7 +1,8 @@
 {
   "header":{
   "/*":{
-      "X-Author": "3drums"
+      "X-Author": "3drums",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 
