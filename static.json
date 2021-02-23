@@ -3,7 +3,7 @@
   "/*": {
       "X-Author": "3drums",
       "Access-Control-Allow-Origin": "*",
-      "Content-Type": "text/html; charset=UTF-8"
+      "Content-Type": "text/plain; charset=UTF-8"
     }
   }
 }
